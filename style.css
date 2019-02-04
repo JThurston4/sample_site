@@ -1,4 +1,14 @@
 .navbar{
   height: 6vh;
-  
+
+}
+
+.carasel {
+  width: 100vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+nav {
+  background-color: green;
 }
